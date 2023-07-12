@@ -1,7 +1,7 @@
 # Prerequisites
 *.d
 *.csv
-*.png
+
 # Compiled Object files
 *.slo
 *.lo
